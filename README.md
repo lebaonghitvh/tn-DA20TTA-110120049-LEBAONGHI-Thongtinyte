@@ -32,7 +32,7 @@ Hệ thống sử dụng . Các thành phần chính của hệ thống bao gồ
 
 2. **Tải dự án từ GitHub**:
     ```sh
-  https://github.com/lebaonghitvh/tn-DA20TTA-110120049-LEBAONGHI-Thongtinyte.git
+      https://github.com/lebaonghitvh/tn-DA20TTA-110120049-LEBAONGHI-Thongtinyte.git
     ```
 
 3. **Thiết lập dự án**:
